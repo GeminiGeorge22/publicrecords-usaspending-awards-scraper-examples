@@ -1,7 +1,6 @@
-# USAspending Awards Scraper — examples
+**READMEs:** [English](README.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md) · [한국어](README.ko.md)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-usaspending-awards-scraper-examples/blob/main/notebooks/quickstart.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-usaspending-awards-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+# USAspending Awards Scraper — examples
 
 US federal contract and grant awards by agency, recipient, NAICS and period.
 
@@ -26,4 +25,3 @@ python3 examples/python/run.py
 
 Examples in Python, JavaScript and curl are in `examples/`. Author: Public Records. License: MIT. No GitHub Actions in this repository.
 
-READMEs: [English](README.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [Português](README.pt.md)
