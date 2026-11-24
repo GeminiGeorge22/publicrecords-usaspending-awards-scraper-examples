@@ -1,5 +1,8 @@
 # USAspending Awards Scraper — 使用例
 
+[![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-usaspending-awards-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-usaspending-awards-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 米連邦の契約・助成金の授与実績：機関、受給者、NAICS、期間。
 
 このActorは**あなた自身の**Apifyアカウント（APIトークンまたはOAuth）で実行します。利用料はApifyの無料または有料プランであなたに課金されます。

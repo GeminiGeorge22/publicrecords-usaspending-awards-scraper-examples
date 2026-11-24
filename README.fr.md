@@ -1,5 +1,8 @@
 # USAspending Awards Scraper — exemples
 
+[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-usaspending-awards-scraper-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-usaspending-awards-scraper-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Attributions fédérales US (marchés et subventions) par agence, bénéficiaire, NAICS et période.
 
 L'Actor s'exécute sur **votre** compte Apify (jeton API ou OAuth). L'usage vous est facturé, sur l'offre gratuite ou payante d'Apify.
